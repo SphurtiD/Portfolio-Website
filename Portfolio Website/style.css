@@ -1,0 +1,65 @@
+.intro {
+    background-color: #944a8f;
+}
+
+.amarante-regular {
+    font-family: "Amarante", serif;
+    font-weight: 400;
+    font-style: normal;
+}      
+
+.annie-use-your-telescope-regular {
+    font-family: "Annie Use Your Telescope", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+.main {
+    color: #ffb6c1;
+    font-size: xx-large;
+}
+
+.photo{
+    border-radius: 50%;
+}
+
+.aboutme {
+    color: #944a8f;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+li {
+    font-size: large;
+}
+
+.imp {
+    background-color: #d591cf;
+}
+
+.main1 {
+    color: #944a8f;
+    font-weight: bolder;
+}
+
+.card-text {
+    font-family: "Annie Use Your Telescope", serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.contact {
+    background-color: #f4d1f5;
+}
